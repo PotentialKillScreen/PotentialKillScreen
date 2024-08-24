@@ -29,11 +29,11 @@
 Hi! :wave: I am a Business Intelligence Consultant:
 - :necktie: I work with cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
-- :seedling: Learning about Technical approaches to the AI Alignment Problem.
+- :seedling: I learn about Technical approaches to the AI Alignment Problem.
 
 - :game_die: In my free time, I enjoy fitness, boardgames, reading and prediction markets.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101)
+- :mailbox: You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101)
 
 ---
 
