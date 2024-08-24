@@ -1,49 +1,32 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN4Mm5hOTJvMWV1eDUxYzJzZzE3ZGJocWI1NGV5dGg1anFwOTRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkAwUt4dQF1tu/giphy.gif" width="100"/>  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101/)
+[![SubStack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://axelahlqvist.substack.com/)
   
-  <!--- 
-  --->
-</div>
-
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/axel-ahlqvist-b16596101/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://axelahlqvist.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge"/>
-  </a>
-    <!--- 
-    <a href="https://www.lesswrong.com/users/axel-ahlqvist">
-    <img src="https://img.shields.io/badge/LessWrong-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="https://manifold.markets/AxelAhlqvist">
-    <img src="https://img.shields.io/badge/Manifold-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  --->
 
 </div>
+
+
+
+  
+
+
 
 <div align= "center">
 <img src="https://komarev.com/ghpvc/?username=Potentialkillscreen&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- <!--- 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNlMjZ2NXV0cjhobzVsdXV5MzAyYzdjM2ttZ3lsc3RiYjFnenkyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
-</div>
-  --->
 
   ---
-  
-### :man_technologist: About Me :
-I am a Business Intelligence Consultant
 
+
+
+Hi! :wave: I am a Business Intelligence Consultant:
 - :necktie: I work with cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
 - :seedling: Learning about Technical work on the AI Alignment Problem.
@@ -73,3 +56,8 @@ I am a Business Intelligence Consultant
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   
 </div>
+
+
+
+  <!--- 
+  --->
