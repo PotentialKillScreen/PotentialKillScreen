@@ -26,10 +26,10 @@
 
 
 
-Hi! :wave: I am a Business Intelligence Consultant:
-- :necktie: I work with cloud technologies to build dataplatforms and use visualization tools to improve decision making.
+Hi! :wave: I currently work as a Business Intelligence Consultant:
+- :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
-- :seedling: I learn about Technical approaches to the AI Alignment Problem.
+- :seedling: Outside the office, I learn about Technical approaches to the AI Alignment Problem.
 
 - :game_die: In my free time, I enjoy fitness, boardgames, reading and prediction markets.
 
