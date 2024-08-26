@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN4Mm5hOTJvMWV1eDUxYzJzZzE3ZGJocWI1NGV5dGg1anFwOTRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkAwUt4dQF1tu/giphy.gif" width="100"/>  
 
-
+[![CV](https://img.shields.io/badge/CV-Green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cewhKuzbsqth1i4bFRZv4A9FOiLVPzVw/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101/)
 [![SubStack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://axelahlqvist.substack.com/)
   
@@ -26,7 +26,7 @@
 
 
 
-Hi! :wave: I currently work as a Business Intelligence Consultant:
+Hi! :wave: I currently work as a Business Intelligence Consultant.
 - :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
 - :seedling: Outside the office, I learn about Technical approaches to the AI Alignment Problem.
@@ -37,7 +37,7 @@ Hi! :wave: I currently work as a Business Intelligence Consultant:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools and Languages:
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
