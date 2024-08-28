@@ -29,7 +29,7 @@
 Hi! :wave: I currently work as a Business Intelligence Consultant.
 - :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
-- :seedling: Outside the office, I learn about Technical approaches to the AI Alignment Problem.
+- :seedling: Outside the office, I learn about technical approaches to the AI Alignment Problem.
 
 - :game_die: In my free time, I enjoy fitness, [boardgames](https://boardgamegeek.com/geeklist/291818), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets](https://manifold.markets/AxelAhlqvist).
 
