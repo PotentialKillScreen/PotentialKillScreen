@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN4Mm5hOTJvMWV1eDUxYzJzZzE3ZGJocWI1NGV5dGg1anFwOTRjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkAwUt4dQF1tu/giphy.gif" width="100"/>  
 
-[![CV](https://img.shields.io/badge/CV-Green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cewhKuzbsqth1i4bFRZv4A9FOiLVPzVw/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/CV-Green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ovjrgRSf-P52wV3pWPM5TAQpnhoiCX6R/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101/)
 [![SubStack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://axelahlqvist.substack.com/)
   
