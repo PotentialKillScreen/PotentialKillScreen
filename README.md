@@ -31,7 +31,7 @@ Hi! :wave: I currently work as a Business Intelligence Consultant.
 
 - :seedling: Outside the office, I learn about technical approaches to the AI Alignment Problem.
 
-- :game_die: In my free time, I enjoy fitness, [boardgames](https://boardgamegeek.com/geeklist/291818), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets](https://manifold.markets/AxelAhlqvist).
+- :game_die: In my free time, I enjoy fitness, [boardgames](https://github.com/PotentialKillScreen/PokemonMaster), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets](https://manifold.markets/AxelAhlqvist).
 
 - :mailbox: You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101)
 
