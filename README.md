@@ -27,7 +27,7 @@
 
 
 
-Hi! :wave: I currently work as a Business Intelligence Consultant.
+Hi! :wave: I currently work as a Data and Analytics Consultant.
 - :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
 - :seedling: Outside the office, I study and research technical approaches to the AI Alignment Problem.
