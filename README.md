@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFhaWtid3hzNWdmb2JrZWZjdTA1OGRmcmFlYjY2aDNxbXBuamp2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/> 
+
 
 [![CV](https://img.shields.io/badge/CV-Green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ovjrgRSf-P52wV3pWPM5TAQpnhoiCX6R/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101/)
