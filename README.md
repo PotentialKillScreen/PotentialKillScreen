@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101/)
 [![SubStack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://axelahlqvist.substack.com/)
   
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFhaWtid3hzNWdmb2JrZWZjdTA1OGRmcmFlYjY2aDNxbXBuamp2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/> 
 </div>
 
 
