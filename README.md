@@ -28,13 +28,13 @@
 
 
 [comment]: <> (Hi! :wave: I currently work as a Data and Analytics Consultant.)
-- :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.
+[comment]: <> (- :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.)
 
-- :seedling: Outside the office, I study and research technical approaches to the AI Alignment Problem.
+[comment]: <> (- :seedling: Outside the office, I study and research technical approaches to the AI Alignment Problem.)
 
-- :game_die: In my free time, I enjoy fitness, [boardgames](https://github.com/PotentialKillScreen/PokemonMaster), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets](https://manifold.markets/AxelAhlqvist).
+[comment]: <> (- :game_die: In my free time, I enjoy fitness, [boardgames](https://github.com/PotentialKillScreen/PokemonMaster), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets])(https://manifold.markets/AxelAhlqvist).
 
-- :mailbox: You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101)
+[comment]: <> (- :mailbox: You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101))
 
 ---
 
