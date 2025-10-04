@@ -26,7 +26,7 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" alt="Power-BI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/David-Summers/Azure-Design/blob/master/SVG_Azure_All/Data%20Factory.svg" title="DataFactory" alt="DataFactory" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Azure-Player/icons-and-symbols/blob/master/Microsoft/Azure-Cloud-and-Enterprise-Symbol-Icon-Set/Symbols/CnE_Cloud/SVG/Azure%20Database%20General_COLOR.svg"  title="Database" alt="Database" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Azure-Player/icons-and-symbols/AzureDev_OpsAzureDevOps.png" title="AzureDevOpts" alt="AzureDevOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Azure-Player/icons-and-symbols/AzureDevOps/OpsAzureDevOps.png" title="AzureDevOpts" alt="AzureDevOps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Azure-Player/icons-and-symbols/blob/master/popular/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
