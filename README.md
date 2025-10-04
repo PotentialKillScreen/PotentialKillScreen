@@ -19,7 +19,7 @@
 
 ### :hammer_and_wrench: Tools and Languages:
 
-  <div>
+  <div align >
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Azure-Player/icons-and-symbols/blob/master/popular/databricks.svg" title="DataBricks" alt="DataBricks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="ApacheSpark" alt="ApacheSpark" width="40" height="40"/>&nbsp;
