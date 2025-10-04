@@ -15,15 +15,7 @@
 
 
 
-<div align= "center">
-<img src="https://komarev.com/ghpvc/?username=Potentialkillscreen&style=flat-square&color=blue" alt=""/>
 
-</div>
-
-
-  ---
-
----
 
 ### :hammer_and_wrench: Tools and Languages:
 
