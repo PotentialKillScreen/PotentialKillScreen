@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFhaWtid3hzNWdmb2JrZWZjdTA1OGRmcmFlYjY2aDNxbXBuamp2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFhaWtid3hzNWdmb2JrZWZjdTA1OGRmcmFlYjY2aDNxbXBuamp2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/> 
 
 [![CV](https://img.shields.io/badge/CV-Green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ovjrgRSf-P52wV3pWPM5TAQpnhoiCX6R/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101/)
@@ -27,14 +27,14 @@
 
 
 
-[comment]: <> (Hi! :wave: I currently work as a Data and Analytics Consultant.)
-[comment]: <> (- :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.)
+Hi! :wave: I currently work as a Data and Analytics Consultant.
+- :necktie: In my work, I use cloud technologies to build dataplatforms and use visualization tools to improve decision making.
 
-[comment]: <> (- :seedling: Outside the office, I study and research technical approaches to the AI Alignment Problem.)
+- :seedling: Outside the office, I study and research technical approaches to the AI Alignment Problem.
 
-[comment]: <> (- :game_die: In my free time, I enjoy fitness, [boardgames](https://github.com/PotentialKillScreen/PokemonMaster), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets])(https://manifold.markets/AxelAhlqvist).
+- :game_die: In my free time, I enjoy fitness, [boardgames](https://github.com/PotentialKillScreen/PokemonMaster), [reading](https://www.goodreads.com/review/list/65221630-axel-ahlqvist?ref=nav_mybooks) and [prediction markets](https://manifold.markets/AxelAhlqvist).
 
-[comment]: <> (- :mailbox: You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101))
+- :mailbox: You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-ahlqvist-b16596101)
 
 ---
 
